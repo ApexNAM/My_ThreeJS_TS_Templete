@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist_client/",
+      "noImplicitAny": true,
+      "module": "ES6",
+      "target": "ES6",
+      "types": ["node"],
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "strict": false,
+      "allowSyntheticDefaultImports": true
+    }
+}
